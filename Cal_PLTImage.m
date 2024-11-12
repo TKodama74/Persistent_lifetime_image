@@ -1,10 +1,4 @@
 %%Cal_PLTImage.m
-%{
-    <Input variables>
-        img : A 2D matrix of a preprocessed 2D image 
-        
-
-%}
 function [PLTImg, PLTMap, CentPlot] = Cal_PLTImage(img, roi, qbit, k, sigma)
     %{
     <Input variables>

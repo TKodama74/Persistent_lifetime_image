@@ -1,4 +1,4 @@
-%%Example
+%%Example.m
 addpath(genpath('programs'))
 %%Load samples of integer image and binary mask
 load('sample.mat');
