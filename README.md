@@ -1,3 +1,3 @@
 # Persistent_lifetime_image
 
-## Instruction
+For a usage of this "Persistent_lifetime_image", please read "ReadMe.docx" 
